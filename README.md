@@ -16,6 +16,12 @@ Where was it obtained, what are the dimensions of it (rows and columns), what ar
 columns, data types, etc. Describe it in sufficient detail so that an uninformed reader would
 understand the dataset.
 
+| Column Name   | Description   | Data Type  |   
+| ------------- | ------------- | ---------- | ----- | ------ | ---- |
+| Dr No  | Part of composite PK, unique ID identifying each medical staff   | INT | 
+| patientID  | Part of composite PK, unique ID identifying each patient  | VARCHAR | 
+| time  | Time of appointment  | DATETIME | 
+
 ## The 2 questions the team generated and why they are interesting and important:
 What are the questions, and why each question is important. Importance can be evaluated and
 conveyed in a variety of ways including, social, economic, cultural and other factors. Also
