@@ -17,7 +17,9 @@ columns, data types, etc. Describe it in sufficient detail so that an uninformed
 understand the dataset.
 
 Data:
-Dr No: NUMBER, Primary Key, unique identifier for each instance of a crime
+| Command | Data type| Description |
+| --- | --- |
+|Dr No | NUMBER| Primary Key, unique identifier for each instance of a crime |
 
 Date Rptd: DATETIME, the date that the crime was reported to the Los Angeles Polic Department
 
