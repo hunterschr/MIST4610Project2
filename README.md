@@ -18,8 +18,8 @@ understand the dataset.
 
 Data:
 | First Header  | Second Header | Description |
-| ------------- | ------------- |
-| Dr No  | NUMBER | Primary Key, unique identifier for each instance of a crime |
+| ------------- | ------------- | ------------ |
+| Dr No | NUMBER | Primary Key, unique identifier for each instance of a crime |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
