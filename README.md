@@ -20,7 +20,6 @@ Data:
 | Column Name  | Data Type | Description |
 | ------------- | ------------- | ------------ |
 | Dr No | NUMBER | Primary Key, unique identifier for each instance of a crime |
-| Content Cell  | Content Cell | | 
 | Date Rptd | DATETIME | the date that the crime was reported to the Los Angeles Polic Department |
 | Date Occ | DATETIME | the date that the crime actually took place | 
 | Time Occ | NUMBER | this gives the time (in 24-hour military time) that the crime occurred |
