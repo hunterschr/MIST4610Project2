@@ -16,11 +16,13 @@ Where was it obtained, what are the dimensions of it (rows and columns), what ar
 columns, data types, etc. Describe it in sufficient detail so that an uninformed reader would
 understand the dataset.
 
-| Column Name   | Description   | Data Type  |   
-| ------------- | ------------- | ---------- | ----- | ------ | ---- |
-| Dr No  | Part of composite PK, unique ID identifying each medical staff   | INT | 
-| patientID  | Part of composite PK, unique ID identifying each patient  | VARCHAR | 
-| time  | Time of appointment  | DATETIME | 
+COLUMNS:
+Dr No: NUMBER, Primary Key, unique identifier for each instance of a crime
+Date Rptd: DATETIME, the date that the crime was reported to the Los Angeles Polic Department
+Date Occ: DATETIME, the date that the crime actually took place
+Time Occ: NUMBER, this gives the time (as number of minutes past 12:00am) that the crime occurred
+
+
 
 ## The 2 questions the team generated and why they are interesting and important:
 What are the questions, and why each question is important. Importance can be evaluated and
