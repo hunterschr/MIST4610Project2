@@ -16,7 +16,7 @@ Where was it obtained, what are the dimensions of it (rows and columns), what ar
 columns, data types, etc. Describe it in sufficient detail so that an uninformed reader would
 understand the dataset.
 
-COLUMNS:
+Data:
 Dr No: NUMBER, Primary Key, unique identifier for each instance of a crime
 Date Rptd: DATETIME, the date that the crime was reported to the Los Angeles Polic Department
 Date Occ: DATETIME, the date that the crime actually took place
