@@ -29,6 +29,7 @@ Data:
 | Rpt Dist No | NUMBER | a 3-4 digit code that represents a sub-area within an area of Los Angeles, gives a more precise location of the crime |
 | Crm Cd | NUMBER | indicates the crime committed| 
 
+
 Crm Cd Desc: TEXT, describes the crime committed, corresponds to Crm Code
 
 Mocodes: TEXT, Modus operandi, activities associated with the suspect in commission of the crime.
