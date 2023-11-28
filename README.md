@@ -22,18 +22,12 @@ Data:
 | Dr No | NUMBER | Primary Key, unique identifier for each instance of a crime |
 | Content Cell  | Content Cell | | 
 | Date Rptd | DATETIME | the date that the crime was reported to the Los Angeles Polic Department |
-
-Date Occ: DATETIME, the date that the crime actually took place
-
-Time Occ: NUMBER, this gives the time (in 24-hour military time) that the crime occurred
-
-Area: NUMBER, gives the location of the crime in the form of a number that is unique to an area of Los Angeles (similar to a zip code)
-
-Area Name: TEXT, gives the name of the unique area where the crime occurred
-
-Rpt Dist No: NUMBER, a 3-4 digit code that represents a sub-area within an area of Los Angeles, gives a more precise location of the crime
-
-Crm Cd: NUMBER, indicates the crime committed
+| Date Occ | DATETIME | the date that the crime actually took place | 
+| Time Occ | NUMBER | this gives the time (in 24-hour military time) that the crime occurred |
+| Area | NUMBER | gives the location of the crime in the form of a number that is unique to an area of Los Angeles (similar to a zip code)|
+| Area Name | TEXT | gives the name of the unique area where the crime occurred |
+| Rpt Dist No | NUMBER | a 3-4 digit code that represents a sub-area within an area of Los Angeles, gives a more precise location of the crime |
+| Crm Cd | NUMBER | indicates the crime committed| 
 
 Crm Cd Desc: TEXT, describes the crime committed, corresponds to Crm Code
 
