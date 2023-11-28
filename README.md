@@ -31,6 +31,7 @@ Data:
 
 Crm Cd Desc: TEXT, describes the crime committed, corresponds to Crm Code
 
+
 Mocodes: TEXT, Modus operandi, activities associated with the suspect in commission of the crime.
 
 Vict Age: NUMBER, gives age of the victim
