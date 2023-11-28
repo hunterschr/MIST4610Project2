@@ -17,16 +17,11 @@ columns, data types, etc. Describe it in sufficient detail so that an uninformed
 understand the dataset.
 
 Data:
-| First Header  | Second Header | Description |
+| Column Name  | Data Type | Description |
 | ------------- | ------------- | ------------ |
 | Dr No | NUMBER | Primary Key, unique identifier for each instance of a crime |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-
-|Dr No | NUMBER |Primary Key, unique identifier for each instance of a crime |
-
-Date Rptd: DATETIME, the date that the crime was reported to the Los Angeles Polic Department
+| Content Cell  | Content Cell | | 
+| Date Rptd | DATETIME | the date that the crime was reported to the Los Angeles Polic Department |
 
 Date Occ: DATETIME, the date that the crime actually took place
 
