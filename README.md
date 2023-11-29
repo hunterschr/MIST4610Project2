@@ -27,35 +27,20 @@ Data:
 | Area Name | TEXT | gives the name of the unique area where the crime occurred |
 | Rpt Dist No | NUMBER | a 3-4 digit code that represents a sub-area within an area of Los Angeles, gives a more precise location of the crime |
 | Crm Cd | NUMBER | indicates the crime committed| 
-
-
-Crm Cd Desc: TEXT, describes the crime committed, corresponds to Crm Code
-
-
-Mocodes: TEXT, Modus operandi, activities associated with the suspect in commission of the crime.
-
-Vict Age: NUMBER, gives age of the victim
-
-Vict Sex: TEXT, gives gender of the victim (M-male, F-female)
-
-Vict Descent:  Descent Code: A - Other Asian B - Black C - Chinese D - Cambodian F - Filipino G - Guamanian H - Hispanic/Latino/Mexican I - American Indian/Alaskan Native J - Japanese K - Korean L - Laotian O - Other P - Pacific Islander S - Samoan U - Hawaiian V - Vietnamese W - White X - Unknown Z - Asian Indian.
-
-Premis Cd: NUMBER, gives the code that corresponds to the type of location the crime took place (vehicle, car, etc)
-
-Weapon Used Cd: NUMBER, code for type of weapon used in the crime
-
-Weapon Desc: TEXT, description of weapon used
-
-Status: TEXT, status of the case
-
-Crm Cd 1-Crime Cd 4: Indicates the crime committed. Crime Code 1 is the primary and most serious one. Crime Code 2, 3, and 4 are respectively less serious offenses.
-Location: TEXT, gives exact street address of incident
-
-Cross Street: TEXT, gives nearest street of rounded address
-
-LAT: NUMBER, Latitude
-
-LON: NUMBER, Longitude
+| Crm Cd Desc | TEXT | describes the crime committed, corresponds to Crm Code |
+| Mocodes | TEXT | Modus operandi, activities associated with the suspect in commission of the crime |
+| Vict Age | NUMBER | gives age of the victim |
+| Vict Sex | TEXT | gives gender of the victim (M-male, F-female) |
+|Vict Descent | TEXT | Descent Code: A - Other Asian B - Black C - Chinese D - Cambodian F - Filipino G - Guamanian H - Hispanic/Latino/Mexican I - American Indian/Alaskan Native J - Japanese K - Korean L - Laotian O - Other P - Pacific Islander S - Samoan U - Hawaiian V - Vietnamese W - White X - Unknown Z - Asian Indian |
+| Premis Cd | NUMBER | gives the code that corresponds to the type of location the crime took place (vehicle, car, etc) |
+| Weapon Used Cd | NUMBER | code for type of weapon used in the crime |
+| Weapon Desc | TEXT | description of weapon used |
+| Status | TEXT | status of the case| 
+| Crm Cd 1-Crime Cd 4 | Indicates the crime committed. Crime Code 1 is the primary and most serious one. Crime Code 2, 3, and 4 are respectively less serious offenses. |
+| Location | TEXT | gives exact street address of incident|
+| Cross Street | TEXT | gives nearest street of rounded address|
+| LAT | NUMBER | Latitude
+| LON | NUMBER | Longitude
 
 
 
