@@ -36,7 +36,7 @@ Data:
 | Weapon Used Cd | NUMBER | code for type of weapon used in the crime |
 | Weapon Desc | TEXT | description of weapon used |
 | Status | TEXT | status of the case| 
-| Crm Cd 1-Crime Cd 4 | Indicates the crime committed. Crime Code 1 is the primary and most serious one. Crime Code 2, 3, and 4 are respectively less serious offenses. |
+| Crm Cd 1-Crime Cd 4 | NUMBER | Indicates the crime committed. Crime Code 1 is the primary and most serious one. Crime Code 2, 3, and 4 are respectively less serious offenses. |
 | Location | TEXT | gives exact street address of incident|
 | Cross Street | TEXT | gives nearest street of rounded address|
 | LAT | NUMBER | Latitude |
