@@ -43,7 +43,6 @@ Data:
 | LON | NUMBER | Longitude |
 
 
-
 ## The 2 questions the team generated and why they are interesting and important:
 What are the questions, and why each question is important. Importance can be evaluated and
 conveyed in a variety of ways including, social, economic, cultural and other factors. Also
