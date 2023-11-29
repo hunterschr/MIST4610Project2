@@ -16,6 +16,10 @@ Where was it obtained, what are the dimensions of it (rows and columns), what ar
 columns, data types, etc. Describe it in sufficient detail so that an uninformed reader would
 understand the dataset.
 
+Data Obtained From: https://catalog.data.gov/dataset/crime-data-from-2020-to-present
+Data Set: Crime Data From 2020 to Present
+Data Set Description: Represents crime in the City of Los Angeles from 2020 to now.
+
 Data:
 | Column Name  | Data Type | Description |
 | ------------- | ------------- | ------------ |
