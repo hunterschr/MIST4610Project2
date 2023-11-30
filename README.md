@@ -60,7 +60,9 @@ Understanding the prevalent types of crimes in various areas and identifying the
 
 
 
-RESEARCH QUESTION #2:
+RESEARCH QUESTION #2: What is the average age of the victims of each crime, and how does the frequency of crime differ based on gender?
+
+Understanding the average age and typical gender of a victim within a crime is crucial for the Los Angeles Police Department in determining what attributes offenders look for. This information can be used to help aid the community in being more vigilante if they fall within one of these categories. 
 
 
 
@@ -74,7 +76,8 @@ QUESTION #1:
   Filter the results from all crimes to crimes with 1,500 or more instances.
 
 
-
+QUESTION 2: 
+  The difference in crime frequency between genders was calculated by subtracting the number of victims of one gender from the number of victims of the other gender for each crime type. 
 
 
 
