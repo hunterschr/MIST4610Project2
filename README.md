@@ -11,10 +11,7 @@
 #### 5. Lauren Prisock [@laurenPrisock](https://github.com/laurenPrisock)
 #### 6. Sohum Rane [@srane05](https://github.com/srane05)
 
-## Describing your dataset and what data it contains:
-Where was it obtained, what are the dimensions of it (rows and columns), what are the various
-columns, data types, etc. Describe it in sufficient detail so that an uninformed reader would
-understand the dataset.
+## Description of Dataset:
 
 Data Obtained From: https://catalog.data.gov/dataset/crime-data-from-2020-to-present
 
@@ -22,7 +19,7 @@ Data Set: Crime Data From 2020 to Present
 
 Data Set Description: Represents crime in the City of Los Angeles from 2020 to now.
 
-Data:
+### Data:
 | Column Name  | Data Type | Description |
 | ------------- | ------------- | ------------ |
 | Dr No | NUMBER | Primary Key, unique identifier for each instance of a crime |
@@ -49,35 +46,31 @@ Data:
 | LON | NUMBER | Longitude |
 
 
-## The 2 questions the team generated and why they are interesting and important:
-What are the questions, and why each question is important. Importance can be evaluated and
-conveyed in a variety of ways including, social, economic, cultural and other factors. Also
-indicate how they are tied to the data set or sets being used.
+## Research Questions:
 
-RESEARCH QUESTION #1: What types of crimes are most commonly reported in different areas, and during which time of the year do they tend to occur most frequently?
+### Research Question #1: 
+### What types of crimes are most commonly reported in different areas, and during which time of the year do they tend to occur most frequently?
 
 Understanding the prevalent types of crimes in various areas and identifying the peak times of the year for these occurrences is crucial for the Los Angeles Police Department. This information aids in strategic officer stationing, ensuring a more targeted and effective law enforcement approach. For instance, if the Central area of Los Angeles experiences a higher crime rate compared to the Hollywood area, allocating more officers to the central region becomes a priority. Additionally, analyzing this data unveils patterns indicating the months with elevated overall crime rates in specific areas.
 
 
 
-RESEARCH QUESTION #2: What is the average age of the victims of each crime, and how does the frequency of crime differ based on gender?
+### Research Question #2: 
+### What is the average age of the victims of each crime, and how does the frequency of crime differ based on gender?
 
 Understanding the average age and typical gender of a victim within a crime is crucial for the Los Angeles Police Department in determining what attributes offenders look for. This information can be used to help aid the community in being more vigilante if they fall within one of these categories. 
 
 
+## Dataset Manipulations:
 
+### Question #1:
 
-
-## The manipulations applied to the data set as part of the analysis:
-Were there any manipulations or calculations that needed to be performed on the data, what were
-they, describe the purpose and how they were accomplished.
-
-QUESTION #1:
   Filter the results from all crimes to crimes with 1,500 or more instances.
 
 
-QUESTION 2: 
-  The difference in crime frequency between genders was calculated by subtracting the number of victims of one gender from the number of victims of the other gender for each crime type. 
+### Question #2: 
+
+  The difference in crime frequency between genders was calculated by subtracting the number of victims of one gender from the number of victims of the other gender for each crime type. This calculation was stored in a calculated field named ``[GenderDiff]``.
 
 
 
