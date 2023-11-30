@@ -54,9 +54,27 @@ What are the questions, and why each question is important. Importance can be ev
 conveyed in a variety of ways including, social, economic, cultural and other factors. Also
 indicate how they are tied to the data set or sets being used.
 
+
+
+
+
+
+
+
+
+
 ## The manipulations applied to the data set as part of the analysis:
 Were there any manipulations or calculations that needed to be performed on the data, what were
 they, describe the purpose and how they were accomplished.
+
+QUESTION #1:
+  Filter the results from all crimes to crimes with 1,500 or more instances.
+
+
+
+
+
+
 
 ## Analysis and Results:
 Analyze and visualize the results of your analysis and describe the implications of your analysis.
