@@ -54,6 +54,8 @@ What are the questions, and why each question is important. Importance can be ev
 conveyed in a variety of ways including, social, economic, cultural and other factors. Also
 indicate how they are tied to the data set or sets being used.
 
+RESEARCH QUESTION #1:
+What are the most frequently occuring crimes in each area, and what time of the year do they occur most often?
 
 
 
