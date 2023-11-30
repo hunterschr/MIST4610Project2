@@ -54,12 +54,13 @@ What are the questions, and why each question is important. Importance can be ev
 conveyed in a variety of ways including, social, economic, cultural and other factors. Also
 indicate how they are tied to the data set or sets being used.
 
-RESEARCH QUESTION #1:
-What are the most frequently occuring crimes in each area, and what time of the year do they occur most often?
+RESEARCH QUESTION #1: What types of crimes are most commonly reported in different areas, and during which time of the year do they tend to occur most frequently?
+
+Understanding the prevalent types of crimes in various areas and identifying the peak times of the year for these occurrences is crucial for the Los Angeles Police Department. This information aids in strategic officer stationing, ensuring a more targeted and effective law enforcement approach. For instance, if the Central area of Los Angeles experiences a higher crime rate compared to the Hollywood area, allocating more officers to the central region becomes a priority. Additionally, analyzing this data unveils patterns indicating the months with elevated overall crime rates in specific areas.
 
 
 
-
+RESEARCH QUESTION #2:
 
 
 
