@@ -80,17 +80,15 @@ Analyze and visualize the results of your analysis and describe the implications
 Please provide any citations if required as well as supporting visualizations and analysis
 generated from Tableau.
 
-### Research Question #1: 
-### What types of crimes are most commonly reported in different areas, and during which time of the year do they tend to occur most frequently?
+### Question #1: 
 
 Understanding 
 
 
 
-### Research Question #2: 
-### What is the average age of the victims of each crime, and how does the frequency of crime differ based on gender?
+### Question #2: 
 
- 
+
 
 ## Tableau Packaged Workbook
 Save or Export your project as a Tableau packaged workbook file and provide it as part of the
