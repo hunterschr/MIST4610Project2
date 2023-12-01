@@ -83,14 +83,14 @@ generated from Tableau.
 ### Research Question #1: 
 ### What types of crimes are most commonly reported in different areas, and during which time of the year do they tend to occur most frequently?
 
-Understanding the prevalent types of crimes in various areas and identifying the peak times of the year for these occurrences is crucial for the Los Angeles Police Department. This information aids in strategic officer stationing, ensuring a more targeted and effective law enforcement approach. For instance, if the Central area of Los Angeles experiences a higher crime rate compared to the Hollywood area, allocating more officers to the central region becomes a priority. Additionally, analyzing this data unveils patterns indicating the months with elevated overall crime rates in specific areas.
+Understanding 
 
 
 
 ### Research Question #2: 
 ### What is the average age of the victims of each crime, and how does the frequency of crime differ based on gender?
 
-Understanding the average age and typical gender of a victim within a crime is crucial for the Los Angeles Police Department in determining what attributes offenders look for. This information can be used to help aid the community in being more vigilante if they fall within one of these categories. 
+ 
 
 ## Tableau Packaged Workbook
 Save or Export your project as a Tableau packaged workbook file and provide it as part of the
