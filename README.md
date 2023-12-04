@@ -65,7 +65,12 @@ Understanding the average age and typical gender of a victim within a crime is c
 
 ### Question #1:
 
-  Filter the results from all crimes to crimes with 1,500 or more instances.
+Graph 1:
+  From a blank sheet, The Crime Code Description was inserted for our Columns, as a dimension. The Count of Crime Code measure was inserted as our rows in descending order, Bar Chart was selected, and results were filtered from all crimes to only those with 1500 or more instances, in order to display the most frequent criminal activities. Then, ‘Area name’ was inserted as a dimension as well, and we filtered our data down to only crimes reported in the ‘Central’ LA area to reduce the scope to just our target location. From this point, the Crime Code was added as a color marker in discrete dimension form, and the Crime Code Description was added in dimension form as a detail marker for the different column names to make the data more visually appealing and descriptive. This chart clearly represents the Count, of the most frequent crimes, above a certain threshold of 1500 reports, for only the ‘Central’ LA area, in descending order. 
+
+Graph 2:
+  From a blank sheet, ‘MONTH(Date Occ)’ is inserted as a discrete dimension for our columns in order to sequentialize our results by the different months of the year and reveal seasonal trends in criminal activity. The discrete Count of Crime Code measure is then inserted as our rows and filtered to only include values above 200 reports, so as to remain focused on our most frequent crimes. We then filter the results again by ‘YEAR(Date Occ)” discrete dimension and select ‘All’ in order to display results from every year that we have data. The results are filtered again by ‘Area Name’ to only include data from the ‘Central’ LA area. The results are filtered again by the Crime Code Description as a dimension to produce the individual trend lines for our chart. Finally, the Crime Code Description dimension is used as a color marker to make the graph more visually appealing. The resulting discrete lines chart clearly displays the average Count of crimes reported, per month, in the ‘Central’ LA area, across 4 years, for only those crimes which have above 200 reports in a month. 
+
 
 
 ### Question #2: 
