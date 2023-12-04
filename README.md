@@ -92,6 +92,9 @@ generated from Tableau.
 Understanding the average age of each crime and the frequency of the crime changes based on gender is a great question for this kind of data. It allows you to look at it and compare the data in Tableau and figure out how Los Angeles is from a crime rate perspective. This can also be something used in the police department because this gives information about each gender and the amount of cases that occurred throughout the year and gives information in numbers and is organized based on a bar graph from least to greatest. I believe this is a great way to look at information like this because it gives every crime that occurred, the gender, the place and any other details that need to be specified.
 
 
+For example, one can see that for the Central region of LA, burglary from vehicles is the most common crime and for Hollywood, simple assault battery is most prevalent. The most common crime, interestingly, for all of LA is stolen bikes. This data can help the city and the police track crime and also take precaution to address and mitigate these crimes.
+
+
  In conclusion to this question, this information can be something that helps many people and allows them to learn a lot based on the tables. This is something can can benefit the police department and it will help them keep everything organized.
 
 ### Question #2: 
