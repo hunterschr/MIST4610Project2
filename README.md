@@ -75,7 +75,9 @@ Graph 2:
 
 ### Question #2: 
 
-  The difference in crime frequency between genders was calculated by subtracting the number of victims of one gender from the number of victims of the other gender for each crime type. This calculation was stored in a calculated field named ``[GenderDiff]``.
+  The main data manipulations for question 2 were within the *Difference in Crime Occurence between Genders* graph. The difference in crime frequency between genders was calculated by subtracting the number of victims of one gender from the number of victims of the other gender for each crime type. This calculation is stored in a calculated field named ``[GenderDiff]`` which is shown beneath the total number of occurences of each crime for each gender. 
+  
+  The only data manipulation used in the *List of Crimes with Average Age of Different Genders* graph was converting the victims' ages into averages instead of a sums.
 
 
 
@@ -100,7 +102,3 @@ Understanding the average age of victims for various crimes and the disparities 
 
 
 Furthermore, these findings inform policy making and law enforcement strategies. Policymakers can create more effective policies concerning the needs of specific demographic groups impacted by different crimes, while law enforcement agencies can change their approaches based on victim demographics, adjusting patrolling or investigative efforts accordingly. This data also emphasizes social awareness and education, creating campaigns that educate communities about safety measures, legal rights, and available resources for specific demographics. Overall, these insights highlight the need for a targeted approach to crime prevention and victim support, considering the diverse demographic characteristics of crime victims.
-
-## Tableau Packaged Workbook
-Save or Export your project as a Tableau packaged workbook file and provide it as part of the
-github repository
