@@ -82,6 +82,9 @@ generated from Tableau.
 
 ### Question #1: 
 
+Understanding the average age of each crime and the frequency of the crime changes based on gender is a great question for this kind of data. It allows you to look at it and compare the data in Tableau and figure out how Los Angeles is from a crime rate perspective. This can also be something used in the police department because this gives information about each gender and the amount of cases that occurred throughout the year and gives information in numbers and is organized based on a bar graph from least to greatest. I believe this is a great way to look at information like this because it gives every crime that occurred, the gender, the place and any other details that need to be specified.
+
+
  
 
 
