@@ -82,7 +82,12 @@ generated from Tableau.
 
 ### Question #1: 
 
-Understanding 
+ Understanding the average age of victims for various crimes and the disparities in crime frequency based on gender reveals important insights with wide-ranging effects. Firstly, this data allows for targeted prevention strategies. By identifying the average age groups affected by specific crimes, specific initiatives can be designed, such as educational programs for youth or teens to prevent crimes like resisting arrest or pandering. Additionally, recognizing gender-based differences in crime frequency helps in resource allocation, allowing support services and protection measures towards the more vulnerable gender for certain crimes, like support for females affected by credit card fraud or males when it unfortunately comes to lynchings. (See below for comparisons)
+
+
+
+
+Furthermore, these findings inform policy making and law enforcement strategies. Policymakers can create more effective policies concerning the needs of specific demographic groups impacted by different crimes, while law enforcement agencies can change their approaches based on victim demographics, adjusting patrolling or investigative efforts accordingly. This data also emphasizes social awareness and education, creating campaigns that educate communities about safety measures, legal rights, and available resources for specific demographics. Overall, these insights highlight the need for a targeted approach to crime prevention and victim support, considering the diverse demographic characteristics of crime victims.
 
 
 
