@@ -102,3 +102,6 @@ Understanding the average age of victims for various crimes and the disparities 
 
 
 Furthermore, these findings inform policy making and law enforcement strategies. Policymakers can create more effective policies concerning the needs of specific demographic groups impacted by different crimes, while law enforcement agencies can change their approaches based on victim demographics, adjusting patrolling or investigative efforts accordingly. This data also emphasizes social awareness and education, creating campaigns that educate communities about safety measures, legal rights, and available resources for specific demographics. Overall, these insights highlight the need for a targeted approach to crime prevention and victim support, considering the diverse demographic characteristics of crime victims.
+
+## Completed Tableau Workbook
+[Team Name: 29704 3](https://drive.google.com/file/d/1ahjPNhCLhfTBLJsfvPv9hkGLXPYOUFab/view?usp=share_link)
