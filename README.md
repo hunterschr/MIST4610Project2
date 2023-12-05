@@ -83,9 +83,7 @@ Graph 2:
 
 
 ## Analysis and Results:
-Analyze and visualize the results of your analysis and describe the implications of your analysis.
-Please provide any citations if required as well as supporting visualizations and analysis
-generated from Tableau.
+
 
 ### Question #1: 
 
