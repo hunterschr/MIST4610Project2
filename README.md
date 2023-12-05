@@ -72,7 +72,8 @@ Graph 1: Sheet 3 below
   ![058A4E06-2352-4E0D-A9F9-440F342C2BFA](https://github.com/hunterschr/MIST4610Project2/assets/148145159/101d68c4-d902-49fc-87ff-72374e4bfd3c)
 
 
-Graph 2:
+Graph 2: Figure 1b. Frequency of each type of Crime over the Past Year for an area
+
   From a blank sheet, ‘MONTH(Date Occ)’ is inserted as a discrete dimension for our columns in order to sequentialize our results by the different months of the year and reveal seasonal trends in criminal activity. The discrete Count of Crime Code measure is then inserted as our rows and filtered to only include values above 200 reports, so as to remain focused on our most frequent crimes. We then filter the results again by ‘YEAR(Date Occ)” discrete dimension and select ‘All’ in order to display results from every year that we have data. The results are filtered again by ‘Area Name’ to only include data from the ‘Central’ LA area. The results are filtered again by the Crime Code Description as a dimension to produce the individual trend lines for our chart. Finally, the Crime Code Description dimension is used as a color marker to make the graph more visually appealing. The resulting discrete lines chart clearly displays the average Count of crimes reported, per month, in the ‘Central’ LA area, across 4 years, for only those crimes which have above 200 reports in a month. 
   ![058A4E06-2352-4E0D-A9F9-440F342C2BFA](https://github.com/hunterschr/MIST4610Project2/assets/148145159/a53ad9a6-fd01-417c-a1f7-000e4c2a576e)
 
