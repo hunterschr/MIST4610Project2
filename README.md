@@ -104,6 +104,8 @@ For example, one can see that for the Central region of LA, burglary from vehicl
 
 Understanding the average age of victims for various crimes and the disparities in crime frequency based on gender reveals important insights with wide-ranging effects. Firstly, this data allows for targeted prevention strategies. By identifying the average age groups affected by specific crimes, specific initiatives can be designed, such as educational programs for youth or teens to prevent crimes like resisting arrest or pandering. Additionally, recognizing gender-based differences in crime frequency helps in resource allocation, allowing support services and protection measures towards the more vulnerable gender for certain crimes, like support for females affected by credit card fraud or males when it unfortunately comes to lynchings. (See below for comparisons)
 
+![image](https://github.com/hunterschr/MIST4610Project2/assets/148078185/a66d8ae9-53f7-42db-b3b9-0cead1e38bf9)
+
 ![image](https://github.com/hunterschr/MIST4610Project2/assets/148078185/342e7c19-7f4b-4b0b-9a4f-7c28dd6c523f)
 
 
