@@ -94,6 +94,9 @@ Understanding the average age of each crime and the frequency of the crime chang
 
 For example, one can see that for the Central region of LA, burglary from vehicles is the most common crime and for Hollywood, simple assault battery is most prevalent. The most common crime, interestingly, for all of LA is stolen bikes. This data can help the city and the police track crime and also take precaution to address and mitigate these crimes.
 
+<img width="958" alt="Screenshot 2023-12-05 at 10 33 37 AM" src="https://github.com/hunterschr/MIST4610Project2/assets/148081356/b7d742a6-4577-4719-b64a-234ff0b29e5b">
+
+
 
  In conclusion to this question, this information can be something that helps many people and allows them to learn a lot based on the tables. This is something can can benefit the police department and it will help them keep everything organized.
 
