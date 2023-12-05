@@ -68,17 +68,23 @@ Understanding the average age and typical gender of a victim within a crime is c
 Graph 1:
   From a blank sheet, The Crime Code Description was inserted for our Columns, as a dimension. The Count of Crime Code measure was inserted as our rows in descending order, Bar Chart was selected, and results were filtered from all crimes to only those with 1500 or more instances, in order to display the most frequent criminal activities. Then, ‘Area name’ was inserted as a dimension as well, and we filtered our data down to only crimes reported in the ‘Central’ LA area to reduce the scope to just our target location. From this point, the Crime Code was added as a color marker in discrete dimension form, and the Crime Code Description was added in dimension form as a detail marker for the different column names to make the data more visually appealing and descriptive. This chart clearly represents the Count, of the most frequent crimes, above a certain threshold of 1500 reports, for only the ‘Central’ LA area, in descending order. 
 
+  ![058A4E06-2352-4E0D-A9F9-440F342C2BFA](https://github.com/hunterschr/MIST4610Project2/assets/148145159/101d68c4-d902-49fc-87ff-72374e4bfd3c)
+
+
 Graph 2:
   From a blank sheet, ‘MONTH(Date Occ)’ is inserted as a discrete dimension for our columns in order to sequentialize our results by the different months of the year and reveal seasonal trends in criminal activity. The discrete Count of Crime Code measure is then inserted as our rows and filtered to only include values above 200 reports, so as to remain focused on our most frequent crimes. We then filter the results again by ‘YEAR(Date Occ)” discrete dimension and select ‘All’ in order to display results from every year that we have data. The results are filtered again by ‘Area Name’ to only include data from the ‘Central’ LA area. The results are filtered again by the Crime Code Description as a dimension to produce the individual trend lines for our chart. Finally, the Crime Code Description dimension is used as a color marker to make the graph more visually appealing. The resulting discrete lines chart clearly displays the average Count of crimes reported, per month, in the ‘Central’ LA area, across 4 years, for only those crimes which have above 200 reports in a month. 
+  ![058A4E06-2352-4E0D-A9F9-440F342C2BFA](https://github.com/hunterschr/MIST4610Project2/assets/148145159/a53ad9a6-fd01-417c-a1f7-000e4c2a576e)
+
 
 
 
 ### Question #2: 
 
   The main data manipulations for question 2 were within the *Difference in Crime Occurence between Genders* graph. The difference in crime frequency between genders was calculated by subtracting the number of victims of one gender from the number of victims of the other gender for each crime type. This calculation is stored in a calculated field named ``[GenderDiff]`` which is shown beneath the total number of occurences of each crime for each gender. 
-  
+
   The data manipulation we used in the *List of Crimes with Average Age of Different Genders* graph was converting the victims' ages into averages instead of a sums.
 
+<img width="184" alt="image" src="https://github.com/hunterschr/MIST4610Project2/assets/148145159/d5ff185e-57e1-410a-8f62-1527e0584434">
 
 
 
