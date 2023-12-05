@@ -77,7 +77,7 @@ Graph 2:
 
   The main data manipulations for question 2 were within the *Difference in Crime Occurence between Genders* graph. The difference in crime frequency between genders was calculated by subtracting the number of victims of one gender from the number of victims of the other gender for each crime type. This calculation is stored in a calculated field named ``[GenderDiff]`` which is shown beneath the total number of occurences of each crime for each gender. 
   
-  The only data manipulation used in the *List of Crimes with Average Age of Different Genders* graph was converting the victims' ages into averages instead of a sums.
+  The data manipulation we used in the *List of Crimes with Average Age of Different Genders* graph was converting the victims' ages into averages instead of a sums.
 
 
 
@@ -93,6 +93,18 @@ Understanding the average age of each crime and the frequency of the crime chang
 For example, one can see that for the Central region of LA, burglary from vehicles is the most common crime and for Hollywood, simple assault battery is most prevalent. The most common crime, interestingly, for all of LA is stolen bikes. This data can help the city and the police track crime and also take precaution to address and mitigate these crimes.
 
 <img width="958" alt="Screenshot 2023-12-05 at 10 33 37 AM" src="https://github.com/hunterschr/MIST4610Project2/assets/148081356/b7d742a6-4577-4719-b64a-234ff0b29e5b">
+
+Also, if we look at the timeline for crime rates in the past, we see that crime rates peak at different times of the year for different areas. For example, in the Central area, crime levels are higest in the month of Aguust. This helps the LAPD know to station more officers in the Central area in August. 
+![15C5AB26-BCD8-4352-B6ED-234111FE5F96](https://github.com/hunterschr/MIST4610Project2/assets/148145159/8d4e2b3c-bbf4-42bd-88e4-4e3f17ca89c3)
+
+
+
+If we look at different areas, such a Hollywood, the line graph shows that crime rates in this area tend to peak around Novemeber. The LAPD can then move the extra officers stationed in Central to Hollywood towards the end of Ocotber and Early November. 
+
+![BADF4B75-6361-4CFE-AA1F-A04C30ED630C](https://github.com/hunterschr/MIST4610Project2/assets/148145159/41eb959e-1c3d-4356-a3f4-67a18ae3f70f)
+
+
+The results of this dashboard, if presented the Los Angeles Police Department, reveal key trends and number that are crucial for strategically stationing officers in specific areas and helping to reduce crime rates in Los Angeles.  
 
 
 
