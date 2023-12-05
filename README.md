@@ -108,8 +108,6 @@ The results of this dashboard, if presented the Los Angeles Police Department, r
 
 
 
- In conclusion to this question, this information can be something that helps many people and allows them to learn a lot based on the tables. This is something can can benefit the police department and it will help them keep everything organized.
-
 ### Question #2: 
 
 Understanding the average age of victims for various crimes and the disparities in crime frequency based on gender reveals important insights with wide-ranging effects. Firstly, this data allows for targeted prevention strategies. By identifying the average age groups affected by specific crimes, specific initiatives can be designed, such as educational programs for youth or teens to prevent crimes like resisting arrest or pandering. Additionally, recognizing gender-based differences in crime frequency helps in resource allocation, allowing support services and protection measures towards the more vulnerable gender for certain crimes, like support for females affected by credit card fraud or males when it unfortunately comes to lynchings. (See below for comparisons)
